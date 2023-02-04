@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Senam Jari</string>
+    <string name="text_btn_tap">Tap Tap</string>
+    <string name="text_game_score">Score: %1$d</string>
+    <string name="text_game_timer">Timer: %1$d</string>
+    <string name="text_message">Game telah selesai  %1$d</string>
+</resources>
